@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.tkgf2.cn/sitemap.xml
